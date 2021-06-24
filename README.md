@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 </div>
 
-![parkCO's GitHub stats](https://github-readme-stats.vercel.app/api?username=alls7554&show_icons=true&theme=tokyonight)
+
