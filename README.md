@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&text=Park%20CO&height=100&textBg=false&fontAlignY=55&animation=twinkling)
 
 <div align="center">
-  <h1>🛠 Teck Stack🛠</h1>
+  <h1>🛠 Tech Stack🛠</h1>
 
   <h3>I've used at least once</h3>
   <br>
