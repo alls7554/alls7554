@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&text=%20alls7554%20&height=300&textBg=false&fontAlign=70&fontAlignY=20&rotate=20&animation=twinkling)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alls7554&show_icons=true&theme=tokyonight)
 
