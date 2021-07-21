@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&text=Park%20CO&height=100&textBg=false&fontAlignY=55&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&text=Charlie%20Park&height=100&textBg=false&fontAlignY=55&animation=twinkling)
 
 <div align="center">
   <h1>🛠 Tech Stack🛠</h1>
